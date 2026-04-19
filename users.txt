@@ -1,0 +1,16 @@
+{
+  "zakaria.arfaoui@uik.ens.tn": {
+    "first_name": "zakaria",
+    "last_name": "arfaoui",
+    "password": "123456",
+    "role": "User 👤",
+    "created_at": "2026-04-19T07:12:19.897652"
+  },
+  "hsanhasnawi@gmail.com": {
+    "first_name": "hsan",
+    "last_name": "hasnaoui",
+    "password": "741852",
+    "role": "Bank 🏦",
+    "created_at": "2026-04-19T07:19:32.173677"
+  }
+}
